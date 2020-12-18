@@ -1,0 +1,40 @@
+nav {
+    background-color: tomato;
+}
+
+.div-contenedor {
+    color: white;
+    border: 1px solid white;
+}
+
+/* .destacado {
+    color: red;
+} */
+/* 
+h2.destacado {
+    color: orange;
+}
+
+p.destacado {
+    color: violet;
+}
+
+div p {
+    color: blue;
+}
+
+div ul li p {
+    color: green;
+} */
+
+div > p {
+    color: pink;
+}
+/* 
+div + p {
+    color: blueviolet;
+} */
+
+div ~ p {
+    color: goldenrod;
+}

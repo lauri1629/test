@@ -1,0 +1,16 @@
+body {
+    background-color: green;
+}
+
+p {
+    color: black
+   font-size: 16px;
+}
+h1 {
+    color: purple;
+
+}
+
+.justifi {text-align: justify;}
+.center {text-align: center;}
+.italic {font-style: italic;}

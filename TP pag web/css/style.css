@@ -1,0 +1,54 @@
+body {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+
+/* navbar */
+.navbar-custom {
+    background-color: #111111;
+    height: 45px;
+}
+.nav-link {
+    color: #FFFFFF;
+}
+.nav-link:hover {
+    color: rgba(224, 65, 65, 0.904)
+}
+
+/* carousel */
+.carousel:hover {
+    zoom: 110%;
+}
+
+/* layaouts */
+.logo {
+    height: 30px;
+    margin-right: 10px;
+}
+
+.carousel-box {
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 65%;
+    box-shadow: 1px 1px 1px 1px rgb(114, 162, 250);
+}
+
+.card-box {
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 60%;
+    box-shadow: 3px 3px 3px 3px rgb(79, 77, 77);
+}
+
+.pie-custom {
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    background-color: #111111;
+}
+
+.footer-img {
+    height: 20px;
+}

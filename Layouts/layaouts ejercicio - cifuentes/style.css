@@ -1,0 +1,95 @@
+
+/*cajas*/
+
+.all {
+    width: 1024px;
+    height: 768px;
+    border: 2px solid grey;
+}
+
+  /*header*/
+.header-height {
+    height: 20%;
+}
+.rect1-width {
+    width: 65%;
+}
+.rect2-width {
+    width: 35%;
+}
+
+  /*body*/
+.body-height {
+    height: 65%;
+}
+.rect3-width {
+    width: 40%;
+}
+.rectbro {
+    height: 50%;
+}
+.rectbro-width {
+    width: 60%;
+}
+
+  /*footer*/
+.footer-height {
+    height: 15%;
+}
+.rectprimos-width {
+    width: 30%;
+}
+.rect7-width {
+    width: 40%;
+}
+
+/*flex*/
+.row {
+    display: flex;
+    justify-content: space-between;
+    
+}
+.col {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+/*bordes*/
+.border {
+    border: 2px solid grey;
+}
+
+/*margin y padding*/
+.padding-in {
+    padding: 10px 10px 10px 10px;
+}
+.margin-out {
+    margin: 10px 10px 10px 10px;
+}
+.margin-bro-up {
+    margin-bottom: 20px;
+}
+.margin-right {
+    margin-right: 10px;
+}
+.margin-left {
+    margin-left: 10px;
+}
+
+
+
+/* background colors*/
+.bg-color-pink {
+    background-color: tomato;
+}
+.bg-color-yellow {
+    background-color: gold;
+}
+.bg-color-violet {
+    background-color: rgb(187, 17, 187);
+}
+.bg-color-marino {
+    background-color: rgb(86, 60, 201);
+}
+    
